@@ -1,0 +1,15 @@
+{
+  "name": "js-loadmore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/loadmore.js",
+  "scripts": {
+    "test": "加载更多"
+  },
+  "author": "renyue",
+  "license": "ISC",
+  "devDependencies": {
+    "@webpack-cli/init": "^0.2.2",
+    "path": "^0.12.7"
+  }
+}
